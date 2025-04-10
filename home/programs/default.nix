@@ -3,6 +3,7 @@
   imports = [
     ./vscode
     ./yazi
+    # ./aerospace.nix
     ./bat.nix
     ./eza.nix
     ./fd.nix

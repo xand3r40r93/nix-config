@@ -1,2 +1,2 @@
 require("starship"):setup()
-require("yatline"):setup()
+-- require("yatline"):setup()

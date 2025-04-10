@@ -57,7 +57,7 @@
     "npm.packageManager" = "bun";
     "npm.scriptRunner" = "bun";
 
-    "editor.formatOnPaste" = true;
+    # "editor.formatOnPaste" = true;
     "editor.formatOnSave" = true;
     "editor.formatOnType" = true;
     "editor.tabSize" = 2;

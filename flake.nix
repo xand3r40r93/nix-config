@@ -26,7 +26,7 @@
     {
       darwinConfigurations."macbook" = nix-darwin.lib.darwinSystem {
         modules = [
-          ./darwin.nix
+          ./darwin
           nix-homebrew.darwinModules.nix-homebrew
           {
             nix-homebrew.autoMigrate = true;
